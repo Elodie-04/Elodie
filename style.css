@@ -1,0 +1,15 @@
+h1 {
+    font-size: 2em;
+    color : red;
+}
+h2 {
+    font-size: 2em;
+    color : rgb(62, 170, 80);
+}
+
+.ClassBleu{
+    color: blue;
+}
+#rose{
+    color: rgb(255, 0, 234);
+}
